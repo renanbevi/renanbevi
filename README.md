@@ -1,2 +1,3 @@
-## Olá, sou o Renan, já trabalhei como analista de integração de sistemas, estou me aventurando na área de produtos e agora estou estudando programação.
+## Olá, sou o Renan, sou analista de integração de sistemas SR, e agora vou me aventurar nessa área de programação que tanto gosto.
+
 
