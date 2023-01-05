@@ -4,6 +4,8 @@ Olá meu nome é Renan, atuao na área de tecnologia desde o ano de 2012.
 - 🔭 Atualmente trabalho na empresa Nuvemshop como Analista de integração de sistemas Senior.
 - 🌱 Estou estudando o curso de programação na ALURA.
 - 🤝 Desenvolvedor FullStack em formação.
+
+#vitrinedev
 <div>
 
   <a href="https://github.com/renanbevi">
